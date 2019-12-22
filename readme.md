@@ -1,6 +1,6 @@
 # Nginx简单实用以及负载均衡和高可用
 
-## [Nginx简介](./docs/Nginx简介)
+## [Nginx简介](docs/Nginx简介)
 
 ## [Nginx环境搭建](./docs/Nginx环境搭建)
 
